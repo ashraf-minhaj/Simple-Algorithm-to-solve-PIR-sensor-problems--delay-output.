@@ -1,0 +1,6 @@
+1. start
+2. wait 1 minute (60*1000 miliseconds)
+3. goto function R
+4. goto R 
+5. if PIR high feedback and wait for 5000 second
+6. go to R 
